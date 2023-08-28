@@ -13,6 +13,18 @@
 <p align="left">✨ Creating bugs since 22 yeaes<br>📚 I'm currently learning Node-Js<br>🎯 Goals: be good person<br>🎲 Fun fact: lazy</p>
 
 ###
+<div align="left">
+  <a href="https://www.linkedin.com/in/giriprasad-patil-443a7a206/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="giriprasadpatil42@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://twitter.com/GiriprasadP9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+###
 
 <h2 align="left">I code with</h2>
 
