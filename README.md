@@ -1,152 +1,68 @@
-<div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
-
-  <a href="https://profile-readme-generator.com">Demo</a>
-</div>
-
-<div align="center">
-  <h1>Profile Readme Generator</h1>
-  <h3>The best profile readme generator you will find!</h3>
-</div>
-
-<p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
-</p>
-
-## :dart: About ##
-
-Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
-
-**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
-
-**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
-
-**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
-
-
-<p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
-</p>
-
-https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
-
-## :rocket: Main Technologies ##
-
-<a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://styled-components.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
-</a>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<details>
-  <summary>See more</summary>
+<p align="left">My name is Giriprasad and I'm a Software Developer, from Belagavi</p>
 
-  ###
+###
 
-  * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
-  * [Styled Media Query](https://github.com/morajabi/styled-media-query)
-  * [Framer Motion](https://framer.com/motion/)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [Prismjs](https://prismjs.com)
-  * [UUID](https://www.npmjs.com/package/uuid)
+<h2 align="left">About me</h2>
 
-</details>
+###
 
-## :white_check_mark: Requirements ##
+<p align="left">✨ Creating bugs since 22 yeaes<br>📚 I'm currently learning Node-Js<br>🎯 Goals: be good person<br>🎲 Fun fact: lazy</p>
 
-Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
+###
 
-## :checkered_flag: Starting ##
+<h2 align="left">I code with</h2>
 
-```bash
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
+###
 
-# Access
-$ cd profile-readme-generator
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
 
-# Install dependencies
-$ yarn
+###
 
-# Run the project
-$ yarn dev
+<img src="https://raw.githubusercontent.com/Giriprasad013-git/Giriprasad013-git/output/snake.svg" alt="Snake animation" />
 
-# The server will initialize in the <http://localhost:3000>
-```
+###
 
-## :video_game: Scripts
+<div align="left">
+  <a href="https://www.linkedin.com/in/giriprasad-patil-443a7a206/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="giriprasadpatil42@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://twitter.com/GiriprasadP9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
-- `dev`: starts the application at `localhost:3000`;
-- `build`: creates an optimized production build of the application;
-- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
-- `test`: runs the tests;
-- `lint`: runs eslint in the /src directory.
+###
 
-## :memo: License ##
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Giriprasad013-git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Giriprasad013-git&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
-
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+###
