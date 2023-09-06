@@ -29,7 +29,7 @@
 <h2 align="left">I code with</h2>
 
 ###
-        <div align="left">
+  <div align="left">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
                 <img
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
