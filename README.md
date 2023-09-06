@@ -29,27 +29,66 @@
 <h2 align="left">I code with</h2>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
+        <div align="left">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                    height="40" alt="javascript logo" />
+                <img width="12" />
+            </a>
+            <a href="https://nodejs.org/en/docs">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+                    height="40" alt="nodejs logo" />
+                <img width="12" />
+            </a>
+            <a href="https://docs.oracle.com/en/java/">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+                    height="40" alt="java logo" />
+                <img width="12" />
+            </a>
+            <a href="https://devdocs.io/c/">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+                    height="40" alt="c logo" />
+                <img width="12" />
+            </a>
+            <a href="https://devdocs.io/cpp/">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+                    height="40" alt="cplusplus logo" />
+                <img width="12" />
+            </a>
+            <a href="https://devdocs.io/html/">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                    height="40" alt="html5 logo" />
+                <img width="12" />
+            </a>
+            <a href="https://devdocs.io/css/">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                    height="40" alt="css3 logo" />
+                <img width="12" />
+            </a>
+            <a href="https://dev.mysql.com/doc/">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+                    height="40" alt="mysql logo" />
+                <img width="12" />
+            </a>
+            <a href="https://sequelize.org/">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+                    height="40" alt="sequelize logo" />
+                <img width="12" />
+            </a>
+            <a href="https://www.php.net/docs.php">
+                <img
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+                    height="40" alt="php logo" />
+            </a>
+        </div>
 
 
