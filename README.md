@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Giriprasad and I'm a Software Developer from Belagavi</p>
+<p align="left">My name is Giriprasad and I'm a Software Developer from Belagavi, </p>
 
 ###
 
