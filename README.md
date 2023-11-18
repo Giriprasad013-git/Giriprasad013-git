@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 22 years<br>📚 I'm currently learning Node-Js<br>🎯 Goals: be good person<br>🎲 Fun fact: lazy</p>
+<p align="left">✨ Creating bugs since 22 years<br>📚 I'm currently learning Node-Js<br>🎯 Goals: undefined<br>🎲 Fun fact: lazy</p>
 
 ###
 <div align="left">
