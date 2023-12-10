@@ -22,17 +22,17 @@
     <a href="https://www.linkedin.com/in/giriprasad-patil-443a7a206/">
         <img
             src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-            height="40" alt="linkedin logo" />
+            height="40" width="12" alt="linkedin logo" />
     </a>
     <a href="mailto:giriprasadpatil42@gmail.com">
         <img
             src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-            height="40" alt="gmail logo" />
+            height="40" width="12" alt="gmail logo" />
     </a>
     <a href="https://twitter.com/GiriprasadP9">
         <img
             src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-            height="40" alt="twitter logo" />
+            height="40" width="12" alt="twitter logo" />
     </a>
 </div>
 
