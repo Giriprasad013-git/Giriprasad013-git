@@ -40,7 +40,7 @@
                 <img
                     src="https://p7.hiclipart.com/preview/156/344/1024/node-js-javascript-openshift-node-border.jpg"
                     height="40" alt="nodejs logo" />
-                <img width="12" />
+                <img width="10" />
             </a>
             <a href="https://docs.oracle.com/en/java/">
                 <img
