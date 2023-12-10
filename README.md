@@ -1,8 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1> 
 
 ###
 
-<p align="left">My name is Giriprasad and I'm a Software Developer from Belagavi, </p>
+<p align="left">👋 Hi, I'm Giriprasad, a Software Developer from Belagavi </p>
 
 ###
 
