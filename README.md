@@ -60,7 +60,7 @@
                     height="40" alt="cplusplus logo" />
                 <img width="12" />
             </a>   
-             <a href="https://sequelize.org/">
+             <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
                 <img
                     src="https://cdn.worldvectorlogo.com/logos/c--4.svg"
                     height="40" alt="C# logo" />
@@ -84,7 +84,7 @@
                     height="40" alt="mysql logo" />
                 <img width="12" />
             </a>
-            <a href="https://www.php.net/docs.php">
+            <a href="https://docs.npmjs.com/">
                 <img
                     src="https://p7.hiclipart.com/preview/828/432/47/npm-node-js-computer-icons-computer-software-installation-others.jpg"
                     height="40" alt="NPM logo" />
