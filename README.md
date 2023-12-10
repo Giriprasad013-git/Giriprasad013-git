@@ -19,28 +19,27 @@
 
 ###
 <div align="left">
-  <a href="https://www.linkedin.com/in/giriprasad-patil-443a7a206/">
+            <a href="https://www.linkedin.com/in/giriprasad-patil-443a7a206/">
                 <img
                     src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
                     height="40" alt="linkedin logo" />
                 <img width="12" />
             </a>
   
-  <a href="mailto:giriprasadpatil42@gmail.com">
+            <a href="mailto:giriprasadpatil42@gmail.com">
                 <img
                     src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
                     height="40" alt="gmail logo" />
                 <img width="12" />
             </a>
             
-  <a href="https://twitter.com/GiriprasadP9">
+            <a href="https://twitter.com/GiriprasadP9">
                 <img
                     src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
                     height="40" alt="twitter logo" />
                 <img width="12" />
             </a>
 </div>
-###
 
 <h2 align="left">I code with</h2>
 
