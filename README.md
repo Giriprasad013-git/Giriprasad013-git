@@ -38,7 +38,7 @@
             </a>
             <a href="https://nodejs.org/en/docs">
                 <img
-                    src="https://p7.hiclipart.com/preview/306/37/167/node-js-javascript-web-application-express-js-computer-software-others.jpg"
+                    src="https://p7.hiclipart.com/preview/156/344/1024/node-js-javascript-openshift-node-border.jpg"
                     height="40" alt="nodejs logo" />
                 <img width="12" />
             </a>
