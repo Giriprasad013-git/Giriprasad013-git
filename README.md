@@ -1,7 +1,7 @@
 
 ###
 
-<p align="left"><h2>👋 Hi</h2>, I'm Giriprasad, a Software Developer from Belagavi </p>
+<p align="left">👋 Hi, I'm Giriprasad, a Software Developer from Belagavi </p>
 
 ###
 
