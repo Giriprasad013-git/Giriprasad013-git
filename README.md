@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 22 years<br>📚 I'm currently learning Node-Js<br>🎯 Goals: undefined<br>🎲 Fun fact: lazy</p>
+<div style="text-align: left;">
+    <span style="display: block;">✨ Creating bugs since 22 years</span>
+    <span style="display: block;">📚 Currently diving into C#</span>
+    <span style="display: block;">🎯 Goals: Build a time machine to fix bugs before they happen</span>
+    <span style="display: block;">🎲 Fun fact: Certified member of the lazy club</span>
+</div>
+
 
 ###
 <div align="left">
