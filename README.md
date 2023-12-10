@@ -86,8 +86,8 @@
             </a>
             <a href="https://www.php.net/docs.php">
                 <img
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-                    height="40" alt="php logo" />
+                    src="https://p7.hiclipart.com/preview/828/432/47/npm-node-js-computer-icons-computer-software-installation-others.jpg"
+                    height="40" alt="NPM logo" />
             </a>
         </div>
 
