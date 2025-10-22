@@ -10,7 +10,7 @@
 ###
 
 <div style="text-align: left;">
-    <span style="display: block;">✨ Creating bugs since 22 years</span><br>
+    <span style="display: block;">✨ Creating bugs since 24 years</span><br>
     <span style="display: block;">📚 Currently diving into C#</span><br>
     <span style="display: block;">🎯 Goals: Build a time machine to fix bugs before they happen</span><br>
     <span style="display: block;">🎲 Fun fact: Certified member of the lazy club</span><br>
