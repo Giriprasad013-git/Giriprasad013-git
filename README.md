@@ -65,12 +65,6 @@
                     height="40" alt="c logo" />
                 <img width="12" />
             </a>
-            <a href="https://devdocs.io/cpp/">
-                <img
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-                    height="40" alt="cplusplus logo" />
-                <img width="12" />
-            </a>   
              <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
                 <img
                     src="https://cdn.worldvectorlogo.com/logos/c--4.svg"
