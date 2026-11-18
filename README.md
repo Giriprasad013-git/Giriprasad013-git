@@ -1,95 +1,92 @@
-# 👋 Hi, I'm Giriprasad
+<div align="center">
 
-<p align="left">
-  Software Developer passionate about building scalable applications, SaaS products, and solving real-world problems through code.
-</p>
+# Hi, I'm Giriprasad 👋
 
----
+### Backend Engineer (SE-II) · C# / .NET · Node.js · Distributed Systems
 
-## 🚀 About Me
+I build low-latency, high-concurrency backends: real-money game servers at **Juego Studios**,<br/>
+and **[ADAGuard.io](https://adaguard.io)**, a live accessibility-testing SaaS I founded and run.
 
-- ✨ Creating bugs (and fixing them) for over 25 years
-- 📚 Currently exploring SaaS development and learning marketing
-- 🎯 Goal: Build a time machine to fix bugs before they happen
+![Open to work](https://img.shields.io/badge/Open_to_work-Backend_%2F_Platform_roles-2ea44f?style=flat-square)
+![Immediate joiner](https://img.shields.io/badge/Notice-Immediate_joiner_%28%E2%89%A415_days%29-0969da?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Bangalore,_India-6e7781?style=flat-square)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giriprasad-patil-443a7a206/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giriprasadpatil42@gmail.com)
+[![ADAGuard](https://img.shields.io/badge/adaguard.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adaguard.io)
+[![X](https://img.shields.io/badge/@GiriprasadP9-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GiriprasadP9)
 
-## 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/giriprasad-patil-443a7a206/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn" />
-  </a>
-  <img width="12" />
-
-  <a href="mailto:giriprasadpatil42@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="Gmail" />
-  </a>
-  <img width="12" />
-
-  <a href="https://twitter.com/GiriprasadP9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40" alt="Twitter" />
-  </a>
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 🧑‍💻 About me
 
-<div align="left">
+- **3+ years** shipping production backends in **C# (.NET 8 / .NET 10)**, **Node.js** and **Python**
+- I own systems end to end: game state machines, payment ledgers, matchmaking, job queues, CI/CD
+- I care about **correctness under concurrency**: idempotency, distributed locks, deterministic state
+- 🔭 Looking for **Backend / Platform Engineer** roles working on distributed systems, payments or real-time infrastructure
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  </a>
-  <img width="12" />
+---
 
-  <a href="https://nodejs.org/en/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  </a>
-  <img width="12" />
+## 💼 Experience
 
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  </a>
-  <img width="12" />
+### Software Engineer II · [Juego Studios](https://www.juegostudio.com/) · *Jul 2023 to present*
 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  </a>
-  <img width="12" />
+| Area | What I did | Impact |
+| --- | --- | --- |
+| **Real-money rules & state engine** | Designed a deterministic, server-side rules and state engine in C#/.NET + EF Core | One codebase runs **9 poker and table-game variants**, saving an estimated **8 to 12 months** per new launch |
+| **Payments** | Stripe integration with Node.js/C# webhook state machines, strict idempotency and automated failure recovery | **Zero duplicate charges** across deposit and payout ledgers |
+| **Matchmaking** | Session matching, allocation and backfill service across **AWS GameLift** and **PlayFab** with mode-based routing | Removed third-party matchmaking vendors and **cut cloud compute costs** |
+| **Platform modernization** | Led the **.NET 8 → .NET 10** migration; built standard REST/WebSocket API templates | **Zero downtime**; templates now the base for multiple production titles |
 
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  </a>
-  <img width="12" />
+---
 
-  <a href="https://devdocs.io/c/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  </a>
-  <img width="12" />
+## 🚀 Featured project
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  </a>
-  <img width="12" />
+### [ADAGuard.io](https://adaguard.io): automated WCAG 2.1 / 2.2 accessibility testing · *Founder*
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  </a>
-  <img width="12" />
+A live SaaS that scans websites for accessibility problems and helps teams fix them before release.
 
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  </a>
-  <img width="12" />
+- **Scanning pipeline:** headless Chromium rendering, **Redis**-backed async job queues, **MongoDB** persistence, parallel multi-instance scanning
+- **Rule engine:** axe-core plus **22 custom DOM / accessibility-tree evaluators**, validated against the **W3C ACT Rules** suite
+- **Developer workflow:** authenticated-session scanning, **GitHub App PR checks**, a **GitHub Action**, and a public **REST API**
+- **Business:** subscription lifecycle, tiered usage metering and payment webhooks; SEO-driven public site; automated lead outreach
 
-  <a href="https://redis.io/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
-  </a>
-  <img width="12" />
+[![Try ADAGuard](https://img.shields.io/badge/Run_a_free_scan-adaguard.io-2ea44f?style=for-the-badge)](https://adaguard.io)
 
-  <a href="https://docs.npmjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-  </a>
+---
+
+## 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,py,js,ts,redis,mongodb,mysql,aws,docker,githubactions,react,nextjs,vercel&perline=15" alt="C#, .NET, Node.js, Python, JavaScript, TypeScript, Redis, MongoDB, MySQL, AWS, Docker, GitHub Actions, React, Next.js, Vercel" />
+</p>
+
+| | |
+| --- | --- |
+| **Languages** | C# (primary), JavaScript / TypeScript, Python, SQL |
+| **Backend** | .NET 8 / .NET 10, ASP.NET Core, EF Core, LINQ, Node.js, REST, WebSockets, microservices |
+| **Data & messaging** | Redis (distributed locks, Pub/Sub, queues, caching), MySQL, MongoDB |
+| **Cloud & DevOps** | AWS (Lambda, SQS, SNS, S3, GameLift), PlayFab, Docker, CI/CD, GitHub Actions |
+| **Payments** | Stripe, Dodo Payments, idempotent webhook processing |
+| **Testing & AI tooling** | xUnit, pytest, Playwright · Claude API, MCP servers, RAG |
+
+---
+
+## 📈 GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Giriprasad013-git/giriprasad013-git/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Giriprasad013-git/giriprasad013-git/output/github-snake.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/Giriprasad013-git/giriprasad013-git/output/github-snake.svg" />
+</picture>
+
+---
+
+<div align="center">
+
+**Hiring for backend, platform or payments work? I'd love to talk.**<br/>
+📫 [giriprasadpatil42@gmail.com](mailto:giriprasadpatil42@gmail.com) · [LinkedIn](https://www.linkedin.com/in/giriprasad-patil-443a7a206/)
 
 </div>
